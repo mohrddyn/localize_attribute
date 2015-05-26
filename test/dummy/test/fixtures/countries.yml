@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sweden:
+  name_en: Sweden
+  name_fi: Ruotsi
+  name_sv: Svenska
